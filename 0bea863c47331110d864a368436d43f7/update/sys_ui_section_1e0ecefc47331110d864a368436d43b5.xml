@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="1e0ecefc47331110d864a368436d43b5" sys_domain="global" table="x_955103_wish_list_wish_item" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>display_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-13 20:20:03</sys_created_on>
+            <sys_id>705156f047731110d864a368436d43b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_955103_wish_list_wish_item" sys_domain="global" view="Default view">1e0ecefc47331110d864a368436d43b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-13 20:20:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>
